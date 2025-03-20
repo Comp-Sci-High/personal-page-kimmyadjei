@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 
 body {
-    background-image: url('https://garden.spoonflower.com/c/13799719/p/f/m/Agoi4BCNWprGvWugzOUlYA0iDxsidHMUPq3UuxS4ogPsdLQU5utu/Solid%20Pale%20Purple%20%20f3e5fe%20%7C%20Rainbow%20Clouds%20Pink%20Blue%20Plain.jpg');
+    background-image: url('https://i.pinimg.com/originals/61/de/9b/61de9b44688bdd5406b028f0017d2ca9.jpg');
     font-family: "Madimi One", sans-serif;
     margin: 0;
     padding: 20px;
@@ -62,7 +62,7 @@ ul {
 
 .favorite-item img {
     border-radius: 10px;
-    border: 3px solid #000000;
+    border: 10px solid #000000;
     width: 200px;
     height: 200px; 
     object-fit: cover;
@@ -72,3 +72,26 @@ p {
     color: #333;
     line-height: 1.6;
 }
+
+.food-item {
+color: blue;
+}  
+
+.game-item {
+    color: rgb(251, 67, 251);
+    border-radius: 20px 
+    }  
+
+
+.animal-item {
+    color: rgb(255, 192, 243);
+    }  
+
+.link-item{
+    text-align: center;
+}
+.fun-fact-box{
+    border: solid rgb(255, 150, 255);
+    text-align: center;
+    padding: 0cqw;
+} 
